@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cambio desde main
+=======
+prueba1
+>>>>>>> 699bacd (Añadimos Prueba.txt)
